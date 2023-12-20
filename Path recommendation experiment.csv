@@ -1,0 +1,21 @@
+path recommendation method,start point,endpoint,travel time
+PDAstar,Outpatient Hall,Electrocardiogram Room,2.7
+PDAstar,Hepatobiliary Surgery Department,Radiology Department,5.3
+PDAstar,Outpatient Hall,Medical Examination Center,2.4
+PDAstar,Infectious Diseases Department,Western Medicine Dispensary,3.7
+PDAstar,Laboratory Department,Obstetrics and Gynecology,2.2
+PDAstar,Nephrology Department,Ultrasound Department,3.3
+PDAstar,Nephrology Department,Hemodialysis Unit,2.3
+PDAstar,Emergency Department,Western Medicine Pharmacy,2
+PDAstar,Nephrology Department,Blood Drawing Area,4.1
+PDAstar,Medical Examination Center,Nuclear Medicine Department,2.5
+Astar,Outpatient Hall,Electrocardiogram Room,3
+Astar,Hepatobiliary Surgery Department,Radiology Department,10.2
+Astar,Outpatient Hall,Medical Examination Center,2.2
+Astar,Infectious Diseases Department,Western Medicine Dispensary,5.8
+Astar,Laboratory Department,Obstetrics and Gynecology,2.3
+Astar,Nephrology Department,Ultrasound Department,4.6
+Astar,Nephrology Department,Hemodialysis Unit,2.3
+Astar,Emergency Department,Western Medicine Pharmacy,5.1
+Astar,Nephrology Department,Blood Drawing Area,8.3
+Astar,Medical Examination Center,Nuclear Medicine Department,3.1
